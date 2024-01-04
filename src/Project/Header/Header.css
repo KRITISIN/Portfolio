@@ -1,0 +1,35 @@
+.header{
+    height: 500px;
+    width: 100%;
+    background-color: antiquewhite;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}   
+    
+.circle{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+   background: url("./image/1704300468375.jpg" );
+   background-size:cover;
+   object-fit: cover;
+   background-repeat: no-repeat;
+   box-shadow: 3px 3px 3px 3px black;
+    
+}
+h1{
+    font-size: 80px;
+    background: -webkit-image-set("https://media.tenor.com/xVgwv4_HWfMAAAAC/nature-tree.gif");
+    -webkit-background-clip: text;
+    background-position-y:-200px ;
+    -webkit-text-fill-color: transparent;
+
+}
+.h22{
+    background: -webkit-image-set("https://media.tenor.com/xVgwv4_HWfMAAAAC/nature-tree.gif");
+    -webkit-background-clip: text;
+    background-position-y:-200px ;
+    -webkit-text-fill-color: transparent;
+    font-size: 50px;
+}

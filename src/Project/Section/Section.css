@@ -1,0 +1,39 @@
+.section{
+    height: 400px;
+    width: 100%;
+    display: flex;
+}
+.div1{
+    width: 30%;
+    height: 400px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+   
+}
+.h11{
+    font-size:80px;
+}
+.div2{
+    height: 400px;
+    width: 40%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.div3{
+    height: 400px;
+    width: 30%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.button{
+    padding: 20px;
+    background-color: brown;
+    box-shadow: 3px 3px 3px black;
+}

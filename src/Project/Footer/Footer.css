@@ -1,0 +1,35 @@
+
+.big1{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(89, 83, 83);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+   
+}
+.big2{
+   background-color: rgb(90, 85, 85);
+   height:250px ;
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+}
+.small{
+    height: 80px;
+    width: 300px;
+    background-color:gray;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px black;
+}
+.big3{
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}

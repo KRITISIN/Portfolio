@@ -1,0 +1,15 @@
+.nav{
+    height: 80px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+
+}
+.nav_div{
+    font-size: 30px;
+
+   
+}
